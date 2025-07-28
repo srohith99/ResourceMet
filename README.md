@@ -24,11 +24,8 @@
 
 ## 📦 Currently Supporting
 
-- CSE - IoT  
-- Cyber Security (CSY)  
-- BioTech (BT)
+- CSE - (IoT , Cyber Security (CSY) , BlockChain (BT))
 
-> More departments and resources coming soon! 💡
 
 ---
 
@@ -36,7 +33,7 @@
 
 - HTML, CSS, JavaScript  
 - PHP (for server-side scripts)  
-- Free Hosting on `free.nf`  
+- Free Hosting by InfinityFree
 - Responsive Design (Mobile/Desktop)
 
 ---
